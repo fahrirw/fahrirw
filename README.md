@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Fahri 👋
 
-<!--
-**fahrirw/fahrirw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation & Data Processing Enthusiast
 
-Here are some ideas to get you started:
+I build systems using Excel VBA and Google Apps Script to automate workflows, process data, and improve efficiency in real-world operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- ATK Stock Management System (Google Apps Script)
+- STR Duration Calculator (Google Apps Script)
+- Excel VBA Sales Request System (Production-level)
+
+## 🛠️ Tech Stack
+- Excel VBA
+- Google Apps Script
+- Google Sheets
+- JavaScript
+- HTML & CSS
+
+## 💼 Focus
+- Data Automation
+- Workflow Optimization
+- Business Process Improvement
+
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/fahrirw/
