@@ -1,13 +1,13 @@
 # Hi, I'm Fahri 👋
 
-Automation & Data Processing Enthusiast
+Automation & Data Processing Enthusiast  
 
-I build systems using Excel VBA and Google Apps Script to automate workflows, process data, and improve efficiency in real-world operations.
+I build real-world systems using Excel VBA and Google Apps Script to automate workflows, process data, and improve operational efficiency.
 
 ## 🚀 Projects
-- ATK Stock Management System (Google Apps Script)
-- STR Duration Calculator (Google Apps Script)
-- Excel VBA Sales Request System (Production-level)
+- ⚙️ Excel VBA Sales Request System (Production-level system used in daily operations)
+- 📊 STR Duration Calculator (Dynamic data processing & decision support tool)
+- 📦 ATK Stock Management System (Automation for inventory requests)
 
 ## 🛠️ Tech Stack
 - Excel VBA
@@ -15,6 +15,11 @@ I build systems using Excel VBA and Google Apps Script to automate workflows, pr
 - Google Sheets
 - JavaScript
 - HTML & CSS
+
+## 🎯 Specialization
+- Data Automation
+- Workflow System Development
+- Business Process Optimization
 
 ## 💼 Focus
 - Data Automation
